@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "com.loans"
+    },
+    "android": {
+      "package": "com.loans"
+    }
+  },
+  "name": "loans",
+  "displayName": "loans"
+}
